@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/First_attempt_autogen"
+  "First_attempt_autogen/include/ui_logindialog.h"
   "First_attempt_autogen/include/ui_mainwindow.h"
   "First_attempt_autogen/mocs_compilation.cpp"
   "First_attempt_autogen/timestamp"

@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "First_attempt_autogen/timestamp" "custom" "First_attempt_autogen/deps"
   "/home/dizzywaters/Programming/QT/First_project/First_attempt/build/Desktop-Debug/First_attempt_autogen/mocs_compilation.cpp" "CMakeFiles/First_attempt.dir/First_attempt_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/First_attempt.dir/First_attempt_autogen/mocs_compilation.cpp.o.d"
+  "/home/dizzywaters/Programming/QT/First_project/First_attempt/logindialog.cpp" "CMakeFiles/First_attempt.dir/logindialog.cpp.o" "gcc" "CMakeFiles/First_attempt.dir/logindialog.cpp.o.d"
   "/home/dizzywaters/Programming/QT/First_project/First_attempt/main.cpp" "CMakeFiles/First_attempt.dir/main.cpp.o" "gcc" "CMakeFiles/First_attempt.dir/main.cpp.o.d"
   "/home/dizzywaters/Programming/QT/First_project/First_attempt/mainwindow.cpp" "CMakeFiles/First_attempt.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/First_attempt.dir/mainwindow.cpp.o.d"
   )

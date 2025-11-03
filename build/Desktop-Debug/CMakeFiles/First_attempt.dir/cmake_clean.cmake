@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "First_attempt_autogen"
   "CMakeFiles/First_attempt.dir/First_attempt_autogen/mocs_compilation.cpp.o"
   "CMakeFiles/First_attempt.dir/First_attempt_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/First_attempt.dir/logindialog.cpp.o"
+  "CMakeFiles/First_attempt.dir/logindialog.cpp.o.d"
   "CMakeFiles/First_attempt.dir/main.cpp.o"
   "CMakeFiles/First_attempt.dir/main.cpp.o.d"
   "CMakeFiles/First_attempt.dir/mainwindow.cpp.o"
